@@ -1,0 +1,3 @@
+/home/adam/projects/learnC/hello/cmake-build-debug/CMakeFiles/hello.dir
+/home/adam/projects/learnC/hello/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/adam/projects/learnC/hello/cmake-build-debug/CMakeFiles/rebuild_cache.dir

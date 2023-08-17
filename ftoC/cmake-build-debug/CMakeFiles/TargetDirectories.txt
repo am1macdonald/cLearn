@@ -1,0 +1,3 @@
+/home/adam/projects/learnC/ftoC/cmake-build-debug/CMakeFiles/ftoC.dir
+/home/adam/projects/learnC/ftoC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/adam/projects/learnC/ftoC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
