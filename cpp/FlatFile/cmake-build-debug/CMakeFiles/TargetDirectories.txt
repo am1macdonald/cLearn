@@ -1,0 +1,3 @@
+/home/adam/projects/learnC/cpp/FlatFile/cmake-build-debug/CMakeFiles/FlatFile.dir
+/home/adam/projects/learnC/cpp/FlatFile/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/adam/projects/learnC/cpp/FlatFile/cmake-build-debug/CMakeFiles/rebuild_cache.dir

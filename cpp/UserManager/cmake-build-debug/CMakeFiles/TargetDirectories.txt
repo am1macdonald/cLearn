@@ -1,0 +1,3 @@
+/home/adam/projects/learnC/cpp/UserManager/cmake-build-debug/CMakeFiles/UserManager.dir
+/home/adam/projects/learnC/cpp/UserManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/adam/projects/learnC/cpp/UserManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
