@@ -48,6 +48,10 @@ class UserRegistry {
 private:
     RegistrySlot *head;
 public:
+    UserRegistry(const UserRegistry&) = delete;
+    UserRegistry& operator=(const UserRegistry&) = delete;
+    UserRegistry(UserRegistry&&) = delete;
+    UserRegistry& operator=(const UserRegistry&&) = delete;
     UserRegistry() {
         head = nullptr;
     }
@@ -118,7 +122,15 @@ public:
         }
     }
 
+    ~UserRegistry() {
+        RegistrySlot* current = head;
+        while (current != nullptr) {
+            RegistrySlot* nextSlot = current->next;
+            delete current;
+            current = nextSlot;
 
+        }
+    }
 };
 
 int main() {
